@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(252, 248, 244);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color:  rgb(222, 245, 245);
+    height: 80px;
+    height: 82px;
+    padding: 2px;
+    margin-top: -1%;
+    margin-left: -6px;
+    margin-right: -6px;
+}
+header h1{
+    color: rgb(15, 134, 143);
+    margin-left: 5%;
+}
+span{
+    color: red;
+}
+footer{
+    background-color: rgb(250, 228, 233); 
+    text-align: center;
+    height: 70px;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 2px;
+    margin-bottom: -1%;
+    margin-left: -6px;
+    margin-right: -6px;
+}
+footer p{
+    position: relative;
+    top: 30%;
+}
+a{
+    color: black;
+    text-decoration: none;
+    display: flexbox;
+    float:right;
+    margin: 2%;
+    position: relative;
+    bottom: 100%;
+    font-weight: 600;
+    font-size: small;
+}
+h1{
+    color: red;
+    margin-left: 5%;
+}
+.description{
+    background-color: rgb(250, 228, 233); 
+}
+.steps{
+    background-color: rgb(222, 245, 245);
+}
+img{
+    height: 270px;
+    width: 270px;
+}
