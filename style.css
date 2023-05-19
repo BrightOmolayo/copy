@@ -16,10 +16,10 @@ header h1{
     margin-left: 5%;
 }
 span{
-    color: red;
+    color: rgb(250, 58, 10);
 }
 .heroText h1{
-    color: red;
+    color: rgb(250, 58, 10);
 }
 .heroText p{
     font-weight: 600;
@@ -74,7 +74,7 @@ footer{
 }
 footer p{
     position: relative;
-    top: 20%;
+    top: 10%;
     justify-self: center;
 }
 a{

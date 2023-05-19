@@ -16,7 +16,7 @@ header h1{
     margin-left: 5%;
 }
 span{
-    color: red;
+    color: rgb(250, 58, 10);
 }
 footer{
     background-color: rgb(250, 228, 233); 
@@ -44,17 +44,36 @@ a{
     font-weight: 600;
     font-size: small;
 }
-h1{
-    color: red;
-    margin-left: 5%;
+.h1{
+    color: rgb(250, 58, 10);
+    text-align: center;
+    position: relative;
+    top: 160px;
 }
 .description{
     background-color: rgb(250, 228, 233); 
 }
 .steps{
     background-color: rgb(222, 245, 245);
+    text-align: center;
 }
 img{
     height: 270px;
     width: 270px;
+    position: relative;
+    left: 50%;
+    border-radius: 15px;
+}
+ul{
+    display: flexbox;
+    justify-content: space-between;
+    
+}
+li{
+    margin: 3px;
+    list-style-position: inside;
+}
+.ingredients{
+    width: 70%;
+    margin-left: 20%;
 }
