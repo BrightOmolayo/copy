@@ -52,6 +52,8 @@ a{
 }
 .description{
     background-color: rgb(250, 228, 233); 
+    text-align: center;
+    height: 200px;
 }
 .steps{
     background-color: rgb(222, 245, 245);
@@ -61,7 +63,7 @@ img{
     height: 270px;
     width: 270px;
     position: relative;
-    left: 50%;
+    left: 52%;
     border-radius: 15px;
 }
 ul{
@@ -74,6 +76,5 @@ li{
     list-style-position: inside;
 }
 .ingredients{
-    width: 70%;
-    margin-left: 20%;
+    text-align: center;
 }
